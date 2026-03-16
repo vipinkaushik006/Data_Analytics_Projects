@@ -118,9 +118,31 @@ The dashboard includes **interactive filters** that allow users to explore data 
 
 These filters allow users to **analyze specific skills and job trends interactively**.
 
+
 ---
 
-# 📷 Dashboard Preview
-Add your Power BI dashboard screenshot here.
+# 📌 Key Takeaways
+- AI professionals receive **high salary packages across top tech companies**.
+- Skills like **Deep Learning, Machine Learning, and Computer Vision** are highly demanded.
+- Major tech companies such as **Google, Amazon, and Microsoft dominate AI hiring**.
+- Experience plays a crucial role in AI job opportunities.
+- AI skills are becoming essential across multiple industries.
 
-Example:
+---
+
+# 🧠 Conclusion
+The **AI Job Market Analysis Dashboard** provides a clear view of salary trends, required skills, and hiring patterns in the AI industry.
+
+Using **Power BI visualization techniques**, the project highlights how different companies value AI skills and experience. The dashboard enables users to easily explore job market insights through interactive filters and visualizations.
+
+---
+
+# 👨‍💻 Author
+**Vipin Kaushik**  
+B.Tech – Computer Science Engineering  
+
+### 🔗 GitHub
+https://github.com/vipinkaushik006/Data_Analytics_Projects/blob/main/Power%20BI%20Dashboards/AI%20Job%20Market%20Analysis.pbix
+
+### 🔗 LinkedIn
+https://www.linkedin.com/in/vipin-kaushik006/
